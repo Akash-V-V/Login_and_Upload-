@@ -3,6 +3,8 @@ This project is a responsive web application featuring a modern login page and a
 ├── index.html              # Main login interface  
 ├── upload.html             # File upload page  
 ├── css/
-│   └── style.css  
+
+│   └── style.css 
+
 |   └── styles.css 
 ├── image
